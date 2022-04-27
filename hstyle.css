@@ -1,0 +1,22 @@
+
+h1 
+{
+    color: cornsilk;
+    margin-left: 20px;
+}
+  
+a 
+{
+    color: cornsilk;
+    margin-left: 300px;
+}
+   
+
+body 
+{
+    background-image: url("rpurple.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: cornsilk;
+}
+
